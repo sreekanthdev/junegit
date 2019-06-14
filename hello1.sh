@@ -7,4 +7,4 @@ echo this is for printing and read values form keyborad
 echo "Enter the vals : "
 read value1 value2 value3
 echo "Enter the value : $value"
-
+echo"This is testing purpose"
